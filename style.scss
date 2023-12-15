@@ -32,9 +32,7 @@ nav {
     height: 64px;
     @include center-flex;
     flex-direction: column;
-    -webkit-box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.75);
-    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 10px 7px rgba(0,0,0,0.6);
     position: relative;
     z-index: 10;
     h1 {
